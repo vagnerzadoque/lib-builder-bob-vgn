@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Result: {result}</Text>
-      <GayaButton />
+      <GayaButton title="Ola Gaya" onPress={() => 'oi'} />
     </View>
   );
 }
