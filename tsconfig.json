@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-lib-builder-bob-vgn": ["./src/index"]
+      "poc-gaya-lib-builder-bob-vgn": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

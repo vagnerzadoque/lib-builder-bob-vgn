@@ -1,5 +1,5 @@
 {
-  "name": "react-native-lib-builder-bob-vgn",
+  "name": "poc-gaya-lib-builder-bob-vgn",
   "version": "0.3.0",
   "description": "teste-builder-bob",
   "source": "./src/index.tsx",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-lib-builder-bob-vgn-example",
+    "example": "yarn workspace poc-gaya-lib-builder-bob-vgn-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vagnerzadoque/react-native-lib-builder-bob-vgn.git"
+    "url": "git+https://github.com/vagnerzadoque/poc-gaya-lib-builder-bob-vgn.git"
   },
   "author": "Vagner Barbosa <vagner.zaham@gmail.com> (https://github.com/vagnerzadoque)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vagnerzadoque/react-native-lib-builder-bob-vgn/issues"
+    "url": "https://github.com/vagnerzadoque/poc-gaya-lib-builder-bob-vgn/issues"
   },
-  "homepage": "https://github.com/vagnerzadoque/react-native-lib-builder-bob-vgn#readme",
+  "homepage": "https://github.com/vagnerzadoque/poc-gaya-lib-builder-bob-vgn#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

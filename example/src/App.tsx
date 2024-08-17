@@ -1,5 +1,5 @@
 import { StyleSheet, View, Text } from 'react-native';
-import { multiply } from 'react-native-lib-builder-bob-vgn';
+import { multiply } from 'poc-gaya-lib-builder-bob-vgn';
 import GayaButton from '../../src/components/Button/GayaButton';
 const result = multiply(3, 7);
 
