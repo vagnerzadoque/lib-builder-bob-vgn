@@ -1,6 +1,6 @@
 {
   "name": "poc-gaya-lib-builder-bob-vgn",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "teste-builder-bob",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
