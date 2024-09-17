@@ -1,18 +1,18 @@
-# poc-teste-gaya-builder-bob-vgn
+# poc-gaya-builder-bob-vgn
 
 teste-builder-bob
 
 ## Installation
 
 ```sh
-npm install poc-teste-gaya-builder-bob-vgn
+npm install poc-gaya-builder-bob-vgn
 ```
 
 ## Usage
 
 
 ```js
-import { multiply } from 'poc-teste-gaya-builder-bob-vgn';
+import { multiply } from 'poc-gaya-builder-bob-vgn';
 
 // ...
 

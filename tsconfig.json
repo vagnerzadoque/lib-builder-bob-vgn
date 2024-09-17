@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "poc-teste-gaya-builder-bob-vgn": ["./src/index"]
+      "poc-gaya-builder-bob-vgn": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
