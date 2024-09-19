@@ -183,5 +183,10 @@
     "type": "module-new",
     "languages": "kotlin-objc",
     "version": "0.39.0"
+  },
+  "dependencies": {
+    "@naturacosmeticos/natds-icons": "^1.26.5",
+    "@naturacosmeticos/natds-themes": "^0.80.1",
+    "styled-components": "^6.1.13"
   }
 }
